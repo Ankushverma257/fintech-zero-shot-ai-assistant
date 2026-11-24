@@ -6,8 +6,8 @@
 **Institution:** Chitkara University  
 **Program:** BBA FinTech  
 **Lab:** 1 — Zero-Shot Prompting  
-**Student:** [Full Name]  
-**Student ID:** [ID]  
+**Student:** ANKUSH VERMA
+**Student ID:** 2620992527
 **Academic Session:** 2026–2027  
 **AI Tool/Model:** [Tool and model used]  
 **Status:** Educational Prototype
