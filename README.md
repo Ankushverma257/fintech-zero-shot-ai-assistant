@@ -9,7 +9,7 @@
 **Student:** Ankush verma  
 **Student ID:2620992527
 **Academic Session:** 2026–2027  
-**AI Tool/Model:** [Tool and model used]  
+**AI Tool/Model:** claude   
 **Status:** Educational Prototype
 
 ---
